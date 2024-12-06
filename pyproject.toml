@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "bp-selection"
+version = "0.1.0"
+description = ""
+authors = ["Aron Hegedus"]
+readme = "README.md"
+package-mode = false
+
+[tool.poetry.dependencies]
+python = "^3.13"
+pandas = "^2.2.3"
+requests = "^2.32.3"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
