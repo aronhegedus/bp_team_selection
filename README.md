@@ -91,3 +91,47 @@ This allows selectors to prioritize athletes who are closest to world-class perf
 
 ## Code quality note
 This code was written in ~1 hour mostly by ChatGPT. There's debug logs around etc.
+
+## Team selection as of 2024-12-06
+Bear in mind that "Excluded from selection" is just from what I've heard people say. They're "excluded" in terms of
+"They said they don't want to go to Euros". No shade.
+
+```
+Excluded from seleciton: excluded_names={'Tyri Miller', 'Tony Cliffe', 'Sanchez Dillon', 'Maxwell Gyamfi', 'Jurins Kengamu'}
+
+World's Squad:
+
+M:
+  Ade Omisakin (83kg, Total: None, Reason: dispensation)
+  Nonso Chinye (120kg, Total: 930.0, Reason: Carpino score 1.05)
+  Abdul Majeed Sulayman (120kg, Total: 930.0, Reason: Carpino score 1.05)
+  Ajay Sharma #1 (120+kg, Total: 1001.0, Reason: Carpino score 1.12)
+  Christian Ayandokun (93kg, Total: 878.5, Reason: Carpino score 1.89)
+  Paul Kirkbride-Richards (120+kg, Total: 960.0, Reason: Carpino score 1.97)
+  William Pickering #1 (93kg, Total: 840.0, Reason: %WR achieved: 93.23%)
+  Ben Pape (105kg, Total: 865.0, Reason: %WR achieved: 91.97%)
+
+F:
+  Joy Nnamani (57kg, Total: 506.0, Reason: Carpino score 0.00)
+  Ziana Azariah (84kg, Total: 600.0, Reason: Carpino score 0.60)
+  Bobbie Butters (57kg, Total: 491.5, Reason: Carpino score 1.00)
+  Melina Irawo (84kg, Total: 555.5, Reason: Carpino score 1.84)
+  Annie Nelson (69kg, Total: 530.0, Reason: Carpino score 2.20)
+  Sabrina Downes (63kg, Total: 487.5, Reason: %WR achieved: 87.44%)
+  Sophia Ellis (76kg, Total: 533.0, Reason: %WR achieved: 86.95%)
+  Temitope Nuga (76kg, Total: 532.5, Reason: %WR achieved: 86.87%)
+
+Reserves:
+
+M:
+  Inderraj Dhillon (120kg, Total: 920.0, Reason: Carpino score 1.55 (Reserve))
+  Kibria Ali (66kg, Total: 651.0, Reason: %WR achieved: 91.63% (Reserve))
+  Joseph Diva (66kg, Total: 650.5, Reason: %WR achieved: 91.56% (Reserve))
+  Owen Hubbard (83kg, Total: 772.5, Reason: %WR achieved: 89.72% (Reserve))
+
+F:
+  Adejoke Adetayo (57kg, Total: 478.0, Reason: Carpino score 1.93 (Reserve))
+  Makeda Vidal (63kg, Total: 480.5, Reason: %WR achieved: 86.19% (Reserve))
+  Bettina Hanlon (76kg, Total: 520.0, Reason: %WR achieved: 84.83% (Reserve))
+  Aquinn Onuoha (84+kg, Total: 618.5, Reason: %WR achieved: 84.61% (Reserve))
+```

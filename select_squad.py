@@ -8,7 +8,7 @@ dispensations = [
 ]
 
 # Names to exclude
-excluded_names = {"Tony Cliffe", "Maxwell Gyamfi", "Sanchez Dillon", "Tyri Miller"}
+excluded_names = {"Tony Cliffe", "Maxwell Gyamfi", "Sanchez Dillon", "Tyri Miller", "Jurins Kengamu"}
 
 # File paths
 british_results_file = "result_data/british_powerlifting_results.csv"
