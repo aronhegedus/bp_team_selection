@@ -15,7 +15,7 @@ Follow the official instructions: [Poetry Installation Guide](https://python-poe
 ```
 poetry run python british_download.py
 poetry run python download_worlds_data.py
-poetry run python calculate_carpino.py
+poetry run python calculate_carpinos.py
 ```
 
 This will get you all the data needed. However the `.csv`s are given in this repo, so you don't need to run.
